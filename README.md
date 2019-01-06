@@ -1,6 +1,13 @@
 # The problem
 
+<img src='https://github.com/gqfiddler/terrorism-attribution-engine/blob/master/world_map.png'>
+
+
+
 The Global Terrorism Database is a database of all 180,691 reliably recorded acts of terror since 1970. The data has been collected, cleaned, and curated with the help of various grants and currently resides at the University of Maryland. In this project, I'll be trying to attribute responsibility for the 46% of these acts of terrorism that are currently unattributed.
+
+<img src='https://github.com/gqfiddler/terrorism-attribution-engine/blob/master/prob_predictions.png'>
+
 
 This problem presents a number of challenges:
 
